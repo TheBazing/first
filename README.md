@@ -11,7 +11,7 @@
 <center><img src="https://78.media.tumblr.com/53a477d3cca43c4481e5298721b43dbb/tumblr_p3u2gbJO8H1ti7l68o1_500.jpg" alt="Cute Seulgi" width="500" height="334"></center>
 
 <hr>
-<h2 style="text-align:center;font-size:200%;">I hate ----you guys</h2>
+<h2 style="text-align:center;font-size:200%;">I hate you guys</h2>
 
 <p style="text-align:center;" title="Hello there.">This is actually kinda fun.</p>
 
